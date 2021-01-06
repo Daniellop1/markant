@@ -1,4 +1,5 @@
-# Markant
-Markant is an online Markdown editor.
+# Markdown editor
 
-If you have a bug to report, a feature request or any other type of feedback, feel free to open an issue.
+## Status 
+
+![Markdown editor](http://status.2005danielus.ml/status/markdown.2005danielus.ml-443.svg?t=1609936466844)
